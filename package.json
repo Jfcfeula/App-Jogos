@@ -2,13 +2,13 @@
   "name": "app-jogos",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/Jfcfeula/app-jogos#readme",
+  "homepage": "https://github.com/Jfcfeula/App-Jogos#readme",
   "bugs": {
-    "url": "https://github.com/Jfcfeula/app-jogos/issues"
+    "url": "https://github.com/Jfcfeula/App-Jogos/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jfcfeula/app-jogos.git"
+    "url": "git+https://github.com/Jfcfeula/App-Jogos.git"
   },
   "license": "ISC",
   "author": "",
