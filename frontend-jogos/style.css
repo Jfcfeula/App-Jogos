@@ -1,1 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: teal;
+}
 
+h1{
+    color: rebeccapurple;
+}
+
+input, button {
+    padding: 8px;
+    margin: 4px 4px 4px 0;
+}
+
+button{
+    background-color: violet;
+    color: cornsilk;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid aquamarine;
+    padding: 8px;
+    text-align: left;
+}
+
+th{
+    background-color: lavenderblush;
+}
