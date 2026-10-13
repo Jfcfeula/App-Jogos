@@ -37,3 +37,42 @@ th, td {
 th{
     background-color: lavenderblush;
 }
+
+.mensagem{
+    position: sticky;
+    top: 10px;
+    z-index: 10;
+    padding: 12px 16px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    font-weight: bold;
+}
+.mensagem.sucesso{
+    background-color: white;
+    color: blue;
+    border: 1px solid greenyellow;
+}
+
+.mensagem.erro{
+    background-color: #fee2e2;
+    color: #991b1b;
+    border: 1px solid #FCA5A5;
+
+}
+
+.oculta { display: none;}
+
+button:disabled{
+    background-color: #94a3b8;
+    cursor: not-allowed;
+}
+
+.btn-excluir{
+    background-color: #dc2626;
+}
+
+.linha-informativa{
+text-align: center;
+color: #6b7280;
+font-style: italic;
+}
